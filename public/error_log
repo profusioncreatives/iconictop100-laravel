@@ -1,0 +1,55 @@
+[27-May-2021 04:53:10 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/vishalxtyagi/Workspace/iconictop100/storage/framework/views/0b9735edfe3389cc7ba0e6e3ccf86c83f5b7b86c.php): failed to open stream: No such file or directory in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:187
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/o5o8nn1ax...', 187, Array)
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(187): file_put_contents('/home/vishalxty...', '<?php $__env->s...', 0)
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(160): Illuminate\Filesystem\Filesystem->put('/home/vishalxty...', '<?php $__env->s...')
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(5 in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 187
+[27-May-2021 04:53:13 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/vishalxtyagi/Workspace/iconictop100/storage/framework/views/0b9735edfe3389cc7ba0e6e3ccf86c83f5b7b86c.php): failed to open stream: No such file or directory in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:187
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/o5o8nn1ax...', 187, Array)
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(187): file_put_contents('/home/vishalxty...', '<?php $__env->s...', 0)
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(160): Illuminate\Filesystem\Filesystem->put('/home/vishalxty...', '<?php $__env->s...')
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(5 in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 187
+[27-May-2021 04:55:05 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/vishalxtyagi/Workspace/iconictop100/storage/framework/views/0b9735edfe3389cc7ba0e6e3ccf86c83f5b7b86c.php): failed to open stream: No such file or directory in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:187
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/o5o8nn1ax...', 187, Array)
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(187): file_put_contents('/home/vishalxty...', '<?php $__env->s...', 0)
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(160): Illuminate\Filesystem\Filesystem->put('/home/vishalxty...', '<?php $__env->s...')
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(5 in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 187
+[27-May-2021 04:58:37 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/vishalxtyagi/Workspace/iconictop100/storage/framework/views/0b9735edfe3389cc7ba0e6e3ccf86c83f5b7b86c.php): failed to open stream: No such file or directory in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:187
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/o5o8nn1ax...', 187, Array)
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(187): file_put_contents('/home/vishalxty...', '<?php $__env->s...', 0)
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(160): Illuminate\Filesystem\Filesystem->put('/home/vishalxty...', '<?php $__env->s...')
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(5 in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 187
+[27-May-2021 05:02:10 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:836
+Stack trace:
+#0 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(836): ReflectionClass->__construct('view')
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(717): Illuminate\Container\Container->build('view')
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(655): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 838
+[27-May-2021 05:04:31 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/vishalxtyagi/Workspace/iconictop100/storage/framework/views/0b9735edfe3389cc7ba0e6e3ccf86c83f5b7b86c.php): failed to open stream: No such file or directory in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:187
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/o5o8nn1ax...', 187, Array)
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(187): file_put_contents('/home/vishalxty...', '<?php $__env->s...', 0)
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(160): Illuminate\Filesystem\Filesystem->put('/home/vishalxty...', '<?php $__env->s...')
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(5 in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 187
+[27-May-2021 05:04:32 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/vishalxtyagi/Workspace/iconictop100/storage/framework/views/0b9735edfe3389cc7ba0e6e3ccf86c83f5b7b86c.php): failed to open stream: No such file or directory in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:187
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/o5o8nn1ax...', 187, Array)
+#1 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(187): file_put_contents('/home/vishalxty...', '<?php $__env->s...', 0)
+#2 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(160): Illuminate\Filesystem\Filesystem->put('/home/vishalxty...', '<?php $__env->s...')
+#3 /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(5 in /home/o5o8nn1axcto/public_html/dev.iconictop100.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 187
+[09-Jun-2021 14:35:44 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:35:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:36:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:38:54 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:39:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:40:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:41:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:41:51 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:59:13 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 14:59:55 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 15:03:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 97
+[09-Jun-2021 15:04:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home/o5o8nn1axcto/public_html/app/Http/Controllers/HomeController.php on line 98
